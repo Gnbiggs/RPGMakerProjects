@@ -1,0 +1,17 @@
+[
+  {
+    "id": "potion_quest",
+    "title": "Potion Quest",
+    "stages": {
+      "1": "Doc has asked to get a Potion. He said it can be located in the Tower North of Winderfall."
+    }
+  },
+  {
+    "id": "boat_ticket",
+    "title": "Boat Ticket",
+    "stages": {
+      "1": "You can't go on the ship without a ticket.\nFind a boat ticket in town (ask around).",
+      "2": "You found a ticket! Return to the dock guard."
+    }
+  }
+]
